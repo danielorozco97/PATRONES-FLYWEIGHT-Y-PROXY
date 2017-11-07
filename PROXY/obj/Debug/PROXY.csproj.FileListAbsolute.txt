@@ -1,0 +1,6 @@
+c:\Users\Gammer\documents\visual studio 2017\Projects\ConsoleApp1\PROXY\bin\Debug\PROXY.exe.config
+c:\Users\Gammer\documents\visual studio 2017\Projects\ConsoleApp1\PROXY\bin\Debug\PROXY.exe
+c:\Users\Gammer\documents\visual studio 2017\Projects\ConsoleApp1\PROXY\bin\Debug\PROXY.pdb
+c:\Users\Gammer\documents\visual studio 2017\Projects\ConsoleApp1\PROXY\obj\Debug\PROXY.exe
+c:\Users\Gammer\documents\visual studio 2017\Projects\ConsoleApp1\PROXY\obj\Debug\PROXY.pdb
+c:\Users\Gammer\documents\visual studio 2017\Projects\ConsoleApp1\PROXY\obj\Debug\PROXY.csprojResolveAssemblyReference.cache
